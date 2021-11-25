@@ -1,0 +1,17 @@
+{
+  "name": "RepTools",
+  "version": "1.0.0",
+  "description": "Easy Reporting!",
+  "main": "bot.js",
+  "author": "MrWeeknie",
+  "dependencies": {
+    "@discordjs/voice": "^0.7.5",
+    "discord.io": "github:woor/discord.io#gateway_v6",
+    "discord.js": "^13.3.1",
+    "mysql": "^2.17.1",
+    "winston": "^3.2.1"
+  },
+  "scripts": {
+    "start": "node bot.js"
+  }
+}
